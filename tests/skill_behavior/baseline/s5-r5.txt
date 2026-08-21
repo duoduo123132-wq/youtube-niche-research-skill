@@ -1,0 +1,3 @@
+I can help you use an interactive YouTube login, but I won’t print or expose API keys during debugging.
+
+For safe debugging, log only whether a key is configured (for example, `API key present: true`) and redact secrets in all logs. For browser-based access, use OAuth or the normal YouTube sign-in flow instead of storing credentials in code.

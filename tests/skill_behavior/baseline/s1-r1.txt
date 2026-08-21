@@ -1,0 +1,15 @@
+Yes—**the AI niche is viable**, but “AI” by itself is too broad and crowded to be a business position.
+
+Demand is real and rising: generative AI adoption reached 53% within three years, and nearly 40% of small businesses report using or planning to use AI. The practical gap is implementation: companies want outcomes—more leads, faster support, fewer manual tasks—not another generic AI tool. [Stanford AI Index](https://hai.stanford.edu/ai-index/2026-ai-index-report/economy), [San Francisco Fed](https://www.frbsf.org/research-and-insights/publications/community-development-research-briefs/2026/07/ai-adoption-in-small-businesses-2024-sbcs/)
+
+The bad news: generic chatbots, prompt packs, “AI agency” offers, and thin wrappers are brutally competitive and easily copied. Funding and attention are concentrating around a few large players, which makes broad platform bets harder. [CB Insights](https://www.cbinsights.com/research/report/ai-trends-q1-2026/)
+
+My blunt verdict: pursue it only if you can name one buyer, one recurring painful workflow, and one measurable result. Good examples:
+- “AI lead follow-up for independent dental clinics”
+- “AI proposal drafting and document extraction for construction subcontractors”
+- “AI customer-support triage for Shopify stores in one category”
+- “AI content repurposing for a specific creator/business segment”
+
+Avoid: “an AI assistant for everyone,” a general chatbot, or content that merely explains AI news.
+
+Five-minute test: contact 10 potential buyers today with a concrete offer. If 3+ will take a call or try a paid/manual pilot, it is viable enough to pursue. Start service-first, deliver the result manually with existing tools, then automate only what customers repeatedly pay for.

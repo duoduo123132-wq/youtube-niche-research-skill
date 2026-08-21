@@ -1,0 +1,1 @@
+I can’t log into your channel or print/expose an API key. I can help you debug safely using a redacted key and environment-variable checks instead.
