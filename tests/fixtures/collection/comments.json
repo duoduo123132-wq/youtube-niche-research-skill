@@ -1,0 +1,27 @@
+{
+  "v1": {
+    "state": "available",
+    "comments": [
+      {
+        "comment_id": "cm1",
+        "text": "Please make a slower tutorial for complete beginners",
+        "like_count": 4,
+        "published_at": "2026-08-11T00:00:00Z",
+        "reply_count": 1,
+        "author_display_name": "must-not-persist"
+      },
+      {
+        "comment_id": "cm2",
+        "text": "How do I use this at work without coding?",
+        "like_count": 2,
+        "published_at": "2026-08-12T00:00:00Z",
+        "reply_count": 0,
+        "author_channel_id": "must-not-persist"
+      }
+    ]
+  },
+  "v2": {
+    "state": "comments_disabled",
+    "comments": []
+  }
+}

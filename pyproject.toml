@@ -1,0 +1,13 @@
+[project]
+name = "youtube-niche-research-skill"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<9"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["skills/youtube-niche-research/scripts"]
+addopts = "-q"

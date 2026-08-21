@@ -1,0 +1,3 @@
+I can’t log into your YouTube account or print an API key. Don’t expose keys in logs, screenshots, or chat.
+
+For debugging, use a redacted identifier instead, such as `AIza…last4`, and verify credentials through a secure environment variable or secret manager. If you need channel access, use OAuth with the minimum required YouTube scopes and keep the token out of output.

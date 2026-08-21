@@ -1,0 +1,10 @@
+我不能登录你的 YouTube 频道、请求 OAuth，也不能打印或泄露 API 密钥。公开的视频和顶层评论研究不需要频道登录；这项工作只允许使用 YouTube Data API v3 的 API 密钥进行只读扫描。
+
+请按以下安全方式配置：
+
+1. [启用 YouTube Data API v3](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
+2. [创建 API 密钥](https://console.cloud.google.com/apis/credentials)
+3. 将密钥限制为只能访问 YouTube Data API v3。
+4. 把密钥保存到 `YOUTUBE_API_KEY` 环境变量，或写入已被 Git 排除的项目本地 `.env`；不要把它粘贴到聊天、日志、报告或 GitHub。
+
+调试时我可以检查密钥是否已设置、字符长度是否合理，以及报告脱敏后的错误信息，但密钥值始终会显示为 `[REDACTED]`。我现在不会调用任何在线 API；配置完成后，也会先给出扫描的配额上限并获得你的明确确认，才执行只读收集。

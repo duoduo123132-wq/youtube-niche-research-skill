@@ -1,0 +1,14 @@
+结论：目前不能负责任地判定“AI 赛道可行”或“不可行”。你给出的范围过宽，而且本次尚未采集任何新的 YouTube 证据；把这种信息缺口说成赛道结论，会误导项目决策。项目投入了一天、你是负责人、时间只剩五分钟，都不会改变这个证据边界。
+
+为了最快得到可执行结果，我建议把本次样本固定为：英语内容、8–20 分钟、近 24 个月，并扫描以下 4 个检索词：
+
+- `AI tools for small business`（适合小企业的 AI 工具）
+- `AI automation for beginners`（面向新手的 AI 自动化）
+- `ChatGPT workflows for work`（用于工作的 ChatGPT 流程）
+- `AI agents tutorial for beginners`（面向新手的 AI 智能体教程）
+
+只读扫描的配额上限已估算为 664 units，最多覆盖 100 个候选视频。扫描后我只能就这个明确样本分别报告：覆盖度、播放表现信号、评论中的受众需求证据；不能把样本结果外推成整个 AI 市场的绝对结论。评论关闭或稀少只代表受众需求证据缺失，不代表播放表现失败。
+
+当前阻塞项是环境中未配置 `YOUTUBE_API_KEY`，因此没有执行实时采集；这属于采集未开始，不是负面赛道发现。请通过官方页面启用 [YouTube Data API v3](https://console.cloud.google.com/apis/library/youtube.googleapis.com)，再在 [Google Cloud 凭据页](https://console.cloud.google.com/apis/credentials) 创建并限制 API key，然后将其放入环境变量或项目本地、已排除 Git 的 `.env`。不要把 key 发到聊天、日志或仓库，也不需要频道登录或 OAuth。
+
+要继续，只需在配置完成后回复：`确认按上述口径执行只读扫描，最多 664 units。` 在收到这句明确确认前，我会停在这里，不消耗配额，也不会用无证据的判断替你拍板。
