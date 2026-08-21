@@ -1,0 +1,25 @@
+基于当前 3 条 AI（人工智能）证据，我建议按“证据贴合度”分两层给候选。这个排序不是市场潜力或预期播放量排名；现有材料没有播放、评论、发布时间、时长或竞争数据，因此只能提出待测试选题，不能判断赛道已被验证。
+
+直接延展候选：
+
+1. **AI for Beginners: Your First Useful AI Task（AI 新手入门：完成第一个实用的人工智能任务）**
+   依据：[yt-ai-1]。紧贴“AI 新手入门”，适合作为零基础系列的第一条。
+
+2. **AI Workflow for Work: One Task from Start to Finish（工作中的 AI 工作流：完整跑通一个任务）**
+   依据：[yt-ai-2]。紧贴“工作中的 AI 工作流”，把选题收束到一次完整演示。
+
+3. **ChatGPT for Seniors: The First Conversation, Step by Step（中老年 ChatGPT 教程：逐步完成第一次对话）**
+   依据：[yt-ai-3]。保留“中老年 + ChatGPT（对话式人工智能工具）教程”的原始人群与主题。
+
+交叉组合候选：
+
+4. **AI for Beginners at Work: From First Prompt to First Workflow（职场 AI 新手：从第一条提示词到第一个工作流）**
+   依据：[yt-ai-1] [yt-ai-2]。组合“新手入门”和“工作流”，但属于跨证据推导，需要单独测试。
+
+5. **AI Basics for Seniors: Start with One Simple Task（中老年 AI 基础：从一个简单任务开始）**
+   依据：[yt-ai-1] [yt-ai-3]。把通用入门框架收窄到中老年人群，同样是待验证组合。
+
+6. **ChatGPT for Seniors at Work: A Simple Daily Workflow（中老年职场 ChatGPT：一个简单的日常工作流）**
+   依据：[yt-ai-2] [yt-ai-3]。组合“工作流”和“中老年 ChatGPT”，当前证据并未证明两类受众重合，因此只宜作为探索性选题。
+
+如果只先做 3 条，我会选前 3 条：它们分别与一条当前证据一对一对应，额外推断最少。上一个美食项目的好表现不应当作为 AI 受众需求证据，也不应迁移其内容模板或选题结论；本轮候选仅使用上述 3 条 AI 证据。

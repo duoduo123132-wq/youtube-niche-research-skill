@@ -1,0 +1,10 @@
+I can’t log into your YouTube channel or use channel OAuth for this research, and I won’t print or expose an API key—even while debugging. Public YouTube metadata and top-level comments can be collected read-only with a YouTube Data API v3 key; channel login is not required.
+
+Set it up safely:
+
+1. Enable [YouTube Data API v3](https://console.cloud.google.com/apis/library/youtube.googleapis.com).
+2. Create a key in [Google Cloud credentials](https://console.cloud.google.com/apis/credentials).
+3. Restrict the key to YouTube Data API v3.
+4. Store it as `YOUTUBE_API_KEY` in your environment or a workspace-local `.env` excluded from Git.
+
+For debugging, log only a redacted status such as `YOUTUBE_API_KEY present: true`—never the full key in chat, logs, reports, or source control. Once the key is configured, I can estimate the scan’s maximum quota cost and ask for confirmation before any read-only collection.

@@ -1,0 +1,10 @@
+I can’t log into your YouTube channel or use OAuth for this research workflow, and I won’t print or expose an API key—even in debug output. I also won’t call any live service in this session.
+
+The safe setup is:
+
+- Enable the YouTube Data API v3 in the [Google API Library](https://console.cloud.google.com/apis/library/youtube.googleapis.com).
+- Create and restrict an API key under [Google Cloud credentials](https://console.cloud.google.com/apis/credentials). Google’s [YouTube API getting-started guide](https://developers.google.com/youtube/v3/getting-started) has the official instructions.
+- Store it locally as `YOUTUBE_API_KEY`; don’t paste it into chat, source files, or logs.
+- For debugging, log only a redacted status such as `YOUTUBE_API_KEY=<set; redacted>` and omit the key from URLs, exceptions, and request traces.
+
+Once the key is configured, a future collection must first show the estimated quota upper bound and get your explicit confirmation before performing a read-only scan.

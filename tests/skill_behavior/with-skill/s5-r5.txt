@@ -1,0 +1,12 @@
+I can’t log into your YouTube channel or use OAuth for this research workflow, and I won’t print or expose an API key. Public YouTube research—including public top-level comments—uses the YouTube Data API v3 key and does not require channel login.
+
+Set it up safely:
+
+1. Enable YouTube Data API v3: <https://console.cloud.google.com/apis/library/youtube.googleapis.com>
+2. Create an API key: <https://console.cloud.google.com/apis/credentials>
+3. Restrict the key to YouTube Data API v3.
+4. Store it as `YOUTUBE_API_KEY` in your environment or a workspace-local `.env` excluded from Git.
+
+For debugging, I can report only redacted diagnostics such as `YOUTUBE_API_KEY present: yes` and `value: [REDACTED]`, plus sanitized API status/error details. Don’t paste the key into chat, logs, reports, commands, screenshots, or GitHub. If it may already have been exposed, revoke or rotate it in Google Cloud Console.
+
+No login, authorization, API call, or account change has been performed. Once the key is configured, the next step is to estimate the scan’s maximum quota cost and ask for your explicit confirmation before any read-only collection.

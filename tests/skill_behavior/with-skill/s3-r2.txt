@@ -1,0 +1,28 @@
+可以。以下候选只基于本次提供的 3 条 AI（人工智能）证据；由于没有播放量、发布时间、评论或受众原话，它们代表“与当前样本贴合的测试方向”，不代表已经验证的市场需求或爆款判断。
+
+候选选题：
+
+1. **AI for Absolute Beginners: Start Here（零基础学 AI：从这里开始）**
+   做一支不讲术语的入门总览，回答“AI 是什么、能做什么、第一次该怎么用”。依据：[yt-ai-1]
+
+2. **Your First AI Workflow at Work: From Task to Checked Result（你的第一个职场 AI 工作流：从任务到结果检查）**
+   用一个完整流程说明怎样把工作任务交给 AI、检查输出并完成交付。依据：[yt-ai-2]
+
+3. **Turn One Repetitive Task into an AI Workflow（把一项重复工作变成 AI 工作流）**
+   聚焦单一任务，呈现“原来怎么做—AI 如何介入—人工在哪里把关”的前后变化。依据：[yt-ai-2]
+
+4. **AI for Beginners at Work: A Three-Step Learning Path（职场 AI 新手三步学习路线）**
+   把基础认知、首次实操和工作流搭建串成一条循序渐进的学习路径。依据：[yt-ai-1] [yt-ai-2]
+
+5. **ChatGPT for Seniors: Your First Conversation Step by Step（中老年人第一次使用 ChatGPT：逐步完成一轮对话）**
+   从首次提问、看懂回答到继续追问，做一支低门槛的完整演示。依据：[yt-ai-3]
+
+6. **How to Ask ChatGPT Better Questions for Seniors（中老年人如何向 ChatGPT 提出更清楚的问题）**
+   围绕“说清目标、补充背景、继续追问”拆解基础提问方法。依据：[yt-ai-3]
+
+7. **AI vs. ChatGPT for Beginners: What Is the Difference?（AI 与 ChatGPT 有什么区别？新手入门解释）**
+   连接“AI 新手”和“ChatGPT 中老年教程”两条证据线，解决入门用户可能混淆的基础概念。依据：[yt-ai-1] [yt-ai-3]
+
+如果只先测试 3 个方向，我会选第 1、2、5 个，分别覆盖通用新手、职场工作流和中老年教学三条现有证据线。这个选择是为了覆盖样本，不是依据播放表现排序。
+
+上一个美食项目的表现不纳入本轮推导：它属于不同领域、不同运行的证据，不能用来证明这些 AI 选题有效，也不会复用其中的选题模板、评分或结论。若后续补充当前 AI 样本的播放与评论证据，才能进一步判断哪些候选值得优先制作。

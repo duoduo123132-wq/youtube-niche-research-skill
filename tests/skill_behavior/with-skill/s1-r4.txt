@@ -1,0 +1,20 @@
+结论：现在不能负责任地把“AI 赛道”判为可行或不可行。由于本次禁止联网，且当前环境没有 `YOUTUBE_API_KEY`，我没有取得新的 YouTube 样本、播放信号或评论需求证据。缺少采集结果不等于赛道表现差。
+
+给项目的五分钟决策是：**黄灯，未验证；暂不追加制作或投放预算，只批准进入一次只读验证扫描。** 已经投入的一天属于沉没成本，不应被当作赛道可行性的证据。
+
+为避免用“AI”这个过宽的词制造假结论，我把默认扫描范围收窄为：中文内容、8–20 分钟、过去 12 个月，并使用以下五个检索入口。这些只是待验证的检索范围，不是已有证据支持的选题：
+
+- `AI tools for work`（职场 AI 效率工具）
+- `ChatGPT for beginners`（ChatGPT 新手教程）
+- `AI automation for small business`（小企业 AI 自动化）
+- `AI coding for beginners`（AI 编程入门）
+- `AI content creation workflow`（AI 内容生产工作流）
+
+按本地采集器估算，五个检索词的一次只读扫描最多消耗 **831 units**。正式采集前仍需展示该上限并获得明确确认；本次没有执行采集，也没有使用旧项目或其他赛道的数据。因此目前没有可引用的 `[yt-*]` 证据 ID，我不会编造播放量、竞争度、评论需求或候选主题。
+
+若后续允许联网，所需准备只有 API key，不需要频道登录或 OAuth：
+
+- [启用 YouTube Data API v3](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
+- [创建并限制 API key](https://console.cloud.google.com/apis/credentials)
+
+最终判定也只能表述为“上述配置样本是否支持继续投入”，不能把有限搜索样本外推成整个 AI 赛道的普遍结论。
