@@ -1,0 +1,26 @@
+[
+  {
+    "video_id": "v1",
+    "title": "AI for Complete Beginners",
+    "channel_id": "c1",
+    "channel_title": "Plain Guides",
+    "published_at": "2026-08-10T00:00:00Z",
+    "duration": "PT10M",
+    "views": 9000,
+    "public_comment_count": 80,
+    "source_language": "en-US",
+    "live_state": "none"
+  },
+  {
+    "video_id": "v2",
+    "title": "Start Using AI at Work",
+    "channel_id": "c2",
+    "channel_title": "Simple Workflows",
+    "published_at": "2026-08-09T00:00:00Z",
+    "duration": "PT11M",
+    "views": 6000,
+    "public_comment_count": 25,
+    "source_language": "en",
+    "live_state": "none"
+  }
+]
