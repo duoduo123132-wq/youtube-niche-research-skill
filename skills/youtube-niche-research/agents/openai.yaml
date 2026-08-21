@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube 赛道研究"
+  short_description: "用公开 YouTube 数据研究赛道信号并生成中英双语证据报告"
+  default_prompt: "研究一个 YouTube 赛道，先估算配额并确认，再采集公开证据并生成中英双语报告。"

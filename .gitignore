@@ -1,1 +1,9 @@
 .worktrees/
+.env
+.youtube-niche-research/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+dist/
+build/
